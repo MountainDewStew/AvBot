@@ -1,1 +1,1 @@
-worker: python AvBot.py
+worker: python3 AvBot.py
